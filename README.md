@@ -39,5 +39,6 @@ With each of these methods we split the data into training and testing datasets,
 
 ## Conclusion
 
-after looking at the result of our models we realise that sampling didnt cause much improvement in the accuracy results but helped with the recall score a little.
+after looking at the result of our models we realise that sampling didnt cause much improvement in the models results.
+
 and with respect to the chosen model in this case we chose the Easy Ensemble Classifying model, with the Adaboost algorithm as it does a great job detecting the high risk and thats whats of the most importance to us in this case.
